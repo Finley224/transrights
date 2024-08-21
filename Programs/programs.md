@@ -2,6 +2,7 @@
 These are sorted by the name of the language.
 ### A
 ### B
+- [Bash](b/bash.bash)
 ### C
 ### D
 ### E
