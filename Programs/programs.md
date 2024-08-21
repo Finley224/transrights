@@ -22,6 +22,7 @@ These are sorted by the name of the language.
 ### Q
 ### R
 ### S
+- [Scratch](s/scratch.sb3)
 ### T
 ### U 
 ### V
