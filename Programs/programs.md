@@ -24,6 +24,7 @@ These are sorted by the name of the language.
 ### S
 - [Scratch](s/scratch.sb3)
 ### T
+- [Trump Script](t/TrumpScript.tr)
 ### U 
 ### V
 ### W
