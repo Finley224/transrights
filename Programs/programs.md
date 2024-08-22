@@ -8,6 +8,7 @@ These are sorted by the name of the language.
 ### E
 ### F
 ### G
+- [Go](g/go.go)
 ### H
 - [HTML](h/html.html)
 ### I
