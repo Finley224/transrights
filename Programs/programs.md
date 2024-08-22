@@ -1,4 +1,4 @@
-# Other Programs
+# Programs
 These are sorted by the name of the language.
 ### A
 ### B
