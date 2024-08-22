@@ -9,6 +9,7 @@ These are sorted by the name of the language.
 ### F
 ### G
 ### H
+- [HTML](h/html.html)
 ### I
 ### J
 - [Java Script](j/javascript.js)
