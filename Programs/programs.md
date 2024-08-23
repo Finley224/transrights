@@ -9,6 +9,7 @@ These are sorted by the name of the language.
 ### F
 ### G
 - [Go](g/go.go)
+- [Gleam](g/gleam.gleam)
 ### H
 - [HTML](h/html.html)
 ### I
