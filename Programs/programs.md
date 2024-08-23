@@ -23,6 +23,7 @@ These are sorted by the name of the language.
 - [Python 3](p/python3.py)
 ### Q
 ### R
+- [Rust](r/rust.rs)
 ### S
 - [Scratch](s/scratch.sb3)
 ### T
