@@ -22,6 +22,7 @@ These are sorted by the name of the language.
 ### O
 ### P
 - [Python 3](p/python3.py)
+- [PowerShell](p/powershell.ps1)
 ### Q
 ### R
 - [Rust](r/rust.rs)
