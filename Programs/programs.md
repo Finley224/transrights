@@ -29,6 +29,7 @@ These are sorted by the name of the language.
 - [Scratch](s/scratch.sb3)
 ### T
 - [Trump Script](t/TrumpScript.tr)
+- [TI Basic](t/tibasic.8xp)
 ### U 
 ### V
 ### W
