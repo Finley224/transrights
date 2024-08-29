@@ -1,6 +1,6 @@
 TODO: Complete this page
 
-# Other Programs Index
+# Alternative Programs Index
 ### A
 ### B
 ### C
