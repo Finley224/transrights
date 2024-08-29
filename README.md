@@ -1,5 +1,5 @@
 # Trans Rights
-Hello World programs but with programs that say Trans Rights
+Hello World but with programs that say Trans Rights
 ### All Programs
 - [Main Programs Index](programs/programs.md)
 - [Alternative Programs Index](programs/alternative%20Programs/alternative%20Programs.md)
